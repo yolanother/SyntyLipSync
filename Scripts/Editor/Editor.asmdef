@@ -1,6 +1,6 @@
 {
     "name": "DoubTech.Synty.LipSync.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "DoubTech.Synty.Lipsync",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

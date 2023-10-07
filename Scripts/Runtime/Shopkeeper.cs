@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Facebook.WitAi.TTS.Utilities;
-using Sirenix.OdinInspector;
-using Unity.VisualScripting;
+using Meta.WitAi.Attributes;
+using Meta.WitAi.TTS.Utilities;
 using UnityEngine;
 
-namespace _Project.Scripts
+namespace DoubTech.Synty.Lipsync.Samples
 {
     public class Shopkeeper : MonoBehaviour
     {
